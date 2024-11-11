@@ -1,0 +1,8 @@
+Please segment the following transcript of a YouTube video into chapters and provide a list of chapter titles in JSON format. A chapter title should succinctly summarize the main theme or topic of each segment.
+The output should be in the following JSON format:
+        {
+            "<chapter number>": "<chapter title>",
+            "<chapter number>": "<chapter title>",
+            ...
+        }
+You will only output the JSON object and will not output any other text.
