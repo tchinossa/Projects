@@ -1,0 +1,7 @@
+From here it is possible to download the whole raw dataset: https://drive.google.com/drive/folders/1ES1sMb0RvHe6brqal66oz3yg_DkxDvbE?usp=share_link
+
+Otherwise, for the sake of the analysis, the fixed_dataframe.csv is enough.
+
+It is important to change the directories in the final_script.ipynb, and to download the FIN_countires_centroid.csv and FIN_countries_continents_csv, to build the network with the precise coordinates.
+
+The report was written keeping in mind the guidelines and format provided by the Journal of International Economics, which we figured to be the best journal where we can publish our research.
