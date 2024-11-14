@@ -6,6 +6,10 @@ Here a description for every project, from the most to the least recent.
 This project for Natural Language Processing (Bocconi) focuses on automating the division of YouTube videos into chapters based on video transcripts. For this task there isn’t a predominant approach in literature, most papers use either topic models or a combination of computer vision and NLP to achieve this goal. Our system aimed at automating chapter creation to enhance user engagement and convenience. We implemented a method that uses LLMs to analyze video transcripts, segment them into chapters, and generate titles, comparing the results with manually created chapters.
 I worked in collaboration with Emanuele Sala, Luca Soleri and Fabio Stefana.
 <br>
+## NLP assignments:
+- recreating the game 'Wordle' trying to guess the right word using the entropy of words;
+- using semantic similarity to identify relevant responses to user questions in a conversational context. The goal, for a given question, was to find the most similar question and return its corresponding response. This involved using different text representation techniques to quantify the semantic similarity between questions.
+<br>
 ## Impact of Economic Blocs on International Trade Networks: A Case Study of the European Union Post-Euro Introduction and Brexit
 This project for Simulation and Modeling (Bocconi) looks into the impact of regional economic integration, specifically within the European Union (EU), on global trade networks, focusing on two major events: the introduction of the euro and the United Kingdom’s exit from the EU (Brexit). We used comprehensive trade data from the BACI-CEPII dataset from 1995 to 2022 to create weighted directed graphs to simulate trade ties between countries. Then, using network analysis tools such as sparsification and community recognition, we investigate how these events can modify trade patterns and network architecture.
 I worked in collaboration with Emanuele Sala, Luca Soleri and Fabio Stefana.
