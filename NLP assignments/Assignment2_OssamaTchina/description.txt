@@ -1,0 +1,6 @@
+Ossama Tchina, 3137796
+Natural Language Processing – 20597
+Assignment 2 
+- Track 1: I define a function 'response' that computes the similarity between a user prompt and the stored user prompts from both the ‘dev’ and the ‘train’ datasets; then, for each user prompt in the ‘test’ dataset, I extract the most similar one using the 'response' function. Finally, I store the corresponding conversation ids in a new file.
+
+- Track 2: I start by building a Doc2Vec model using the user prompts from both the ‘dev’ and the ‘train’ datasets; then, from each user prompt in the ‘test’ dataset I infer a vector representation using the Doc2Vec model and I find the most similar prompt from the train/dev dataset. Finally, I store the corresponding conversation ids in a new file.
