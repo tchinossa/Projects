@@ -2,6 +2,9 @@ Coding projects.
 
 Here a description for every project, from the most to the least recent.
 
+## Portfolio Optimization assignments
+Different assignments for Finance with Big Data (Bocconi) regarding stocks portfolio optimization.
+<br>
 ## Automated YouTube Chapter Creation Using Large Language Models: Enhancing User Experience through Transcript-Based Segmentation
 This project for Natural Language Processing (Bocconi) focuses on automating the division of YouTube videos into chapters based on video transcripts. For this task there isn’t a predominant approach in literature, most papers use either topic models or a combination of computer vision and NLP to achieve this goal. Our system aimed at automating chapter creation to enhance user engagement and convenience. We implemented a method that uses LLMs to analyze video transcripts, segment them into chapters, and generate titles, comparing the results with manually created chapters.
 I worked in collaboration with Emanuele Sala, Luca Soleri and Fabio Stefana.
